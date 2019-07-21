@@ -1,0 +1,44 @@
+[
+  {
+    "dllpath": "Pandaros.JobBlocks.dll",
+    "name": "Pandaros.JobBlocks",
+    "namepretty": "Pandaros' JobBlocks!",
+    "version": "0.0.1.0",
+    "enabled": true,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.0"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrReplaceAudio",
+        "relativePath": "AudioFiles.json",
+        "index": -99998
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "relativePath": "localization/en-US/en-US.json",
+        "index": -99998
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "relativePath": "Recipes/FishingHole.json",
+        "npcType": "Pandaros.JobBlocks.Fisherman",
+        "index": -99998,
+        "limitsUIMapping": [
+          "Pandaros.JobBlocks.FishingHole"
+        ]
+      }
+    ],
+    "website": "http://www.settlersmod.com/",
+    "about": "Adds additional JobBlocks to the game!",
+    "patchnotes": [
+      {
+        "version": "0.0.1.0",
+        "notes": [
+          "Initial Release"
+        ]
+      }
+    ]
+  }
+]

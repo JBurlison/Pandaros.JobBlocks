@@ -1,0 +1,27 @@
+{
+  "types": {
+    "Pandaros.JobBlocks.FishingHole": "Fishing Hole"
+  },
+  "typeuses": {
+    "Pandaros.JobBlocks.FishingHole": "Fishing hole for when you are not near water! Catches fish that the fisherman can catch!"
+  },
+  "sentences": {
+    "Pandaros": {
+      "JobBlocks": {
+        "FishingHole1": {
+          "name": "Fishing Hole",
+          "description": "Adds a fishing hole for when you are not near water! Catches fish that the fisherman can catch!"
+        }
+      }
+    },
+    "popup": {
+      "limits": {
+        "Pandaros": {
+          "JobBlocks": {
+            "Fisherman": "Fisherman"
+          }
+        }
+      }
+    }
+  }
+}

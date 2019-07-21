@@ -1,0 +1,11 @@
+[
+  {
+    "clipCollectionName": "Pandaros.JobBlocks.Splash",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "path": "./Audio/splash.ogg"
+      }
+    ]
+  }
+]
