@@ -30,13 +30,14 @@
         ]
       }
     ],
-    "website": "http://www.settlersmod.com/",
+    "website": "https://github.com/JBurlison/Pandaros.JobBlocks/",
     "about": "Adds additional JobBlocks to the game!",
     "patchnotes": [
       {
         "version": "0.0.1.0",
         "notes": [
-          "Initial Release"
+          "Initial Release",
+          "Added Fising Hole to allow getting fish without water nearby."
         ]
       }
     ]
