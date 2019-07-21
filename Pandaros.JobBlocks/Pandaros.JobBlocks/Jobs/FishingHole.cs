@@ -30,7 +30,7 @@ namespace Pandaros.JobBlocks.Jobs
                 type = NPCTypeID.GetNextID()
             });
 
-            ServerManager.BlockEntityCallbacks.RegisterEntityManager(new BlockJobManager<CraftingJobInstance>(new CraftingJobSettings(GameLoader.NAMESPACE + ".FishingHole", GameLoader.NAMESPACE + ".Fisherman")));
+            ServerManager.BlockEntityCallbacks.RegisterEntityManager(new BlockJobManager<CraftingJobInstance>(new CraftingJobSettings(GameLoader.NAMESPACE + ".FishingHole", GameLoader.NAMESPACE + ".Fisherman", 16, 4)));
         }
     }
 
